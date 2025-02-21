@@ -10,3 +10,5 @@
 - 📌 Gender Split: Female | Male
  - 📌 Most Affected Age Group
  - 📌 Referral Trends: patients had no referral, but General Practice and Orthopedics saw the highest referrals
+# Dashboard
+![Final Dashboard of Hospital Emergency room](https://github.com/user-attachments/assets/903e9406-8576-4875-999a-1206270b2d70)
