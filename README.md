@@ -1,4 +1,5 @@
 # Hospital_Emergency_Room_Dashboard
+- This project helped me gain valuable insights into data visualization, trend analysis, and decision-making in a hospital emergency room (ER) setting.
 # Key Learnings from This Project:
 - ✅ Patient Trends & Busy Days – Counted total patients visiting the ER daily and used an area sparkline to spot peak days & seasonal trends.
 - ✅ Wait Time Analysis – Calculated the average time patients wait before seeing a medical professional and tracked daily fluctuations using an area sparkline to highlight days requiring operational improvements.
